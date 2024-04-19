@@ -6,6 +6,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
+| <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
@@ -13,6 +14,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
+| <img src='./emojis/darkside.png'/> | darkside.png |
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
 | <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
@@ -67,6 +69,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/shaq-shimmy.gif'/> | shaq-shimmy.gif |
 | <img src='./emojis/shrug-diddy.png'/> | shrug-diddy.png |
 | <img src='./emojis/smart.gif'/> | smart.gif |
+| <img src='./emojis/soon.jpg'/> | soon.jpg |
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/spiderman-pointing.png'/> | spiderman-pointing.png |
 | <img src='./emojis/sus.png'/> | sus.png |
