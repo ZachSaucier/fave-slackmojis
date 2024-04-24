@@ -89,6 +89,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
+| <img src='./emojis/why-tho.png'/> | why-tho.png |
+| <img src='./emojis/why-tho.png:Zone.Identifier'/> | why-tho.png:Zone.Identifier |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
 | <img src='./emojis/you-got-it-dude.png'/> | you-got-it-dude.png |
 | <img src='./emojis/yup.gif'/> | yup.gif |
