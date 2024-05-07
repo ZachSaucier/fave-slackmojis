@@ -64,7 +64,9 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/phew.png'/> | phew.png |
 | <img src='./emojis/pika-wave.gif'/> | pika-wave.gif |
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
+| <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
+| <img src='./emojis/scratch.gif'/> | scratch.gif |
 | <img src='./emojis/send-it.gif'/> | send-it.gif |
 | <img src='./emojis/shaq-shimmy.gif'/> | shaq-shimmy.gif |
 | <img src='./emojis/shrug-diddy.png'/> | shrug-diddy.png |
@@ -90,7 +92,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
-| <img src='./emojis/why-tho.png:Zone.Identifier'/> | why-tho.png:Zone.Identifier |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
 | <img src='./emojis/you-got-it-dude.png'/> | you-got-it-dude.png |
 | <img src='./emojis/yup.gif'/> | yup.gif |
