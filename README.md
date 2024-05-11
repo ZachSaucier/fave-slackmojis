@@ -93,5 +93,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
+| <img src='./emojis/yoda-ready.gif'/> | yoda-ready.gif |
 | <img src='./emojis/you-got-it-dude.png'/> | you-got-it-dude.png |
 | <img src='./emojis/yup.gif'/> | yup.gif |
