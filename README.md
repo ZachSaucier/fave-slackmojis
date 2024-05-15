@@ -21,6 +21,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
 | <img src='./emojis/elmo-hell.gif'/> | elmo-hell.gif |
 | <img src='./emojis/elmo-potty.gif'/> | elmo-potty.gif |
+| <img src='./emojis/elmo-shook.png'/> | elmo-shook.png |
 | <img src='./emojis/epic-handshake.png'/> | epic-handshake.png |
 | <img src='./emojis/evil-kermit.png'/> | evil-kermit.png |
 | <img src='./emojis/excite.gif'/> | excite.gif |
