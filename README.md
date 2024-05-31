@@ -75,7 +75,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/soon.jpg'/> | soon.jpg |
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/sparkle-eyes-sailor-moon.gif'/> | sparkle-eyes-sailor-moon.gif |
-| <img src='./emojis/sparkle-eyes-sailor-moon.gif:Zone.Identifier'/> | sparkle-eyes-sailor-moon.gif:Zone.Identifier |
 | <img src='./emojis/spiderman-pointing.png'/> | spiderman-pointing.png |
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
@@ -83,7 +82,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
-| <img src='./emojis/try-not-to-cry.gif:Zone.Identifier'/> | try-not-to-cry.gif:Zone.Identifier |
 | <img src='./emojis/ty.png'/> | ty.png |
 | <img src='./emojis/typing-cat.gif'/> | typing-cat.gif |
 | <img src='./emojis/typing-kermit.gif'/> | typing-kermit.gif |
