@@ -12,3 +12,5 @@ for filename in ./emojis/**; do
   name=${filename##*\/}
   echo "| <img src='$filename'/> | $name |" >> README.md
 done
+
+rm emojis/*.Identifier
