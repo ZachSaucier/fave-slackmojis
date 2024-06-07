@@ -2,7 +2,7 @@
 rm README.md
 
 echo '# fave-slackmojis' >> README.md
-echo 'My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks.' >> README.md\n
+echo -e 'My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks.\n' >> README.md
 
 echo 'This README was generated using `./generate-readme.sh`' >> README.md
 
