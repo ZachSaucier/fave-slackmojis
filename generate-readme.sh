@@ -10,7 +10,6 @@ echo '| Emoji preview | Emoji name |' >> README.md
 echo '| ------------- | ------------- |' >> README.md
 for filename in ./emojis/**; do
   name=${filename##*\/}
+  rm ${filename}:Zone.Identifier
   echo "| <img src='$filename'/> | $name |" >> README.md
 done
-
-rm emojis/*.Identifier
