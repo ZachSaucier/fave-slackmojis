@@ -19,6 +19,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
+| <img src='./emojis/dwight-dog.png'/> | dwight-dog.png |
+| <img src='./emojis/dwight-dog.png:Zone.Identifier'/> | dwight-dog.png:Zone.Identifier |
 | <img src='./emojis/elmo-hell.gif'/> | elmo-hell.gif |
 | <img src='./emojis/elmo-potty.gif'/> | elmo-potty.gif |
 | <img src='./emojis/elmo-shook.png'/> | elmo-shook.png |
@@ -29,6 +31,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/facepalm.png'/> | facepalm.png |
 | <img src='./emojis/feel-better-soon.png'/> | feel-better-soon.png |
 | <img src='./emojis/finally.gif'/> | finally.gif |
+| <img src='./emojis/finger-guns.png'/> | finger-guns.png |
+| <img src='./emojis/finger-guns.png:Zone.Identifier'/> | finger-guns.png:Zone.Identifier |
 | <img src='./emojis/froge-sweat.gif'/> | froge-sweat.gif |
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
