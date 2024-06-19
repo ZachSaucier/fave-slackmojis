@@ -7,6 +7,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
+| <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
+| <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
@@ -29,6 +31,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/excite.gif'/> | excite.gif |
 | <img src='./emojis/extreme-teamwork.gif'/> | extreme-teamwork.gif |
 | <img src='./emojis/facepalm.png'/> | facepalm.png |
+| <img src='./emojis/fancy-pooh.png'/> | fancy-pooh.png |
 | <img src='./emojis/feel-better-soon.png'/> | feel-better-soon.png |
 | <img src='./emojis/finally.gif'/> | finally.gif |
 | <img src='./emojis/finger-guns.png'/> | finger-guns.png |
@@ -53,10 +56,14 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/kermit-panic.gif'/> | kermit-panic.gif |
 | <img src='./emojis/kermit-tea.png'/> | kermit-tea.png |
 | <img src='./emojis/link-jam.gif'/> | link-jam.gif |
+| <img src='./emojis/lolol.gif'/> | lolol.gif |
+| <img src='./emojis/magic.gif'/> | magic.gif |
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
 | <img src='./emojis/nailedit.png'/> | nailedit.png |
+| <img src='./emojis/need-coffee.gif'/> | need-coffee.gif |
 | <img src='./emojis/nice-neon.gif'/> | nice-neon.gif |
 | <img src='./emojis/nice.png'/> | nice.png |
+| <img src='./emojis/no-rush.jpg'/> | no-rush.jpg |
 | <img src='./emojis/no-thanks-froge.png'/> | no-thanks-froge.png |
 | <img src='./emojis/nod-approvingly.gif'/> | nod-approvingly.gif |
 | <img src='./emojis/nod-no.gif'/> | nod-no.gif |
@@ -75,6 +82,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/shaq-shimmy.gif'/> | shaq-shimmy.gif |
 | <img src='./emojis/shrug-diddy.png'/> | shrug-diddy.png |
 | <img src='./emojis/smart.gif'/> | smart.gif |
+| <img src='./emojis/so-hot-right-now.png'/> | so-hot-right-now.png |
 | <img src='./emojis/soon.jpg'/> | soon.jpg |
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/sparkle-eyes-sailor-moon.gif'/> | sparkle-eyes-sailor-moon.gif |
@@ -84,6 +92,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
+| <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
 | <img src='./emojis/ty.png'/> | ty.png |
 | <img src='./emojis/typing-cat.gif'/> | typing-cat.gif |
