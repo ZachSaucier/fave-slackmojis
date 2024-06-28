@@ -9,6 +9,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
+| <img src='./emojis/beard-fire-crazy.gif'/> | beard-fire-crazy.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
