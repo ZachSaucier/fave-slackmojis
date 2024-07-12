@@ -47,6 +47,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/homer-appear.gif'/> | homer-appear.gif |
 | <img src='./emojis/homer-disappear.gif'/> | homer-disappear.gif |
 | <img src='./emojis/homer-doh.png'/> | homer-doh.png |
+| <img src='./emojis/hype-overload.gif'/> | hype-overload.gif |
 | <img src='./emojis/i-dunno-shrug.gif'/> | i-dunno-shrug.gif |
 | <img src='./emojis/igotchu.jpg'/> | igotchu.jpg |
 | <img src='./emojis/interesting-batman.gif'/> | interesting-batman.gif |
@@ -75,6 +76,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/not-listening-smeagol.png'/> | not-listening-smeagol.png |
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
 | <img src='./emojis/oof-neon.gif'/> | oof-neon.gif |
+| <img src='./emojis/patrick-amaze.gif'/> | patrick-amaze.gif |
+| <img src='./emojis/patrick-boo.png'/> | patrick-boo.png |
 | <img src='./emojis/phew.png'/> | phew.png |
 | <img src='./emojis/pika-wave.gif'/> | pika-wave.gif |
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
@@ -91,6 +94,11 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/sparkle-eyes-sailor-moon.gif'/> | sparkle-eyes-sailor-moon.gif |
 | <img src='./emojis/spiderman-pointing.png'/> | spiderman-pointing.png |
+| <img src='./emojis/sponge-gar.jpg'/> | sponge-gar.jpg |
+| <img src='./emojis/spongebob-blow-fire.gif'/> | spongebob-blow-fire.gif |
+| <img src='./emojis/spongebob-fun.gif'/> | spongebob-fun.gif |
+| <img src='./emojis/spongebob-imagination.gif'/> | spongebob-imagination.gif |
+| <img src='./emojis/squidward-future.png'/> | squidward-future.png |
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
