@@ -1,8 +1,10 @@
 #!/bin/bash
 rm README.md
 
+FILECOUNT="$(ls -l ./emojis | egrep -c '^-')"
+
 echo '# fave-slackmojis' >> README.md
-echo -e 'My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks.\n' >> README.md
+echo -e "My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with $FILECOUNT emojis!\n" >> README.md
 
 echo 'This README was generated using `./generate-readme.sh`' >> README.md
 

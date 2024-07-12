@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks.
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 119 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
