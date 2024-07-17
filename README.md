@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 123 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 121 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -65,7 +65,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
 | <img src='./emojis/nailedit.png'/> | nailedit.png |
 | <img src='./emojis/neat.png'/> | neat.png |
-| <img src='./emojis/neat.png:Zone.Identifier'/> | neat.png:Zone.Identifier |
 | <img src='./emojis/need-coffee.gif'/> | need-coffee.gif |
 | <img src='./emojis/nice-neon.gif'/> | nice-neon.gif |
 | <img src='./emojis/nice.png'/> | nice.png |
@@ -106,7 +105,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
 | <img src='./emojis/this.gif'/> | this.gif |
-| <img src='./emojis/this.gif:Zone.Identifier'/> | this.gif:Zone.Identifier |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
