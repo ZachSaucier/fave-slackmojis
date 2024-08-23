@@ -10,8 +10,9 @@ echo 'This README was generated using `./generate-readme.sh`' >> README.md
 
 echo '| Emoji preview | Emoji name |' >> README.md
 echo '| ------------- | ------------- |' >> README.md
+
+rm -f ./emojis/*:Zone.Identifier
 for filename in ./emojis/**; do
   name=${filename##*\/}
-  rm -f ${filename}:Zone.Identifier
   echo "| <img src='$filename'/> | $name |" >> README.md
 done
