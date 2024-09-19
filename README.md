@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 122 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 123 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -53,6 +53,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/interesting-batman.gif'/> | interesting-batman.gif |
 | <img src='./emojis/jack-nicholson-nodding.gif'/> | jack-nicholson-nodding.gif |
 | <img src='./emojis/jurrasic-omg.gif'/> | jurrasic-omg.gif |
+| <img src='./emojis/just-in-case.png'/> | just-in-case.png |
 | <img src='./emojis/kento-1.png'/> | kento-1.png |
 | <img src='./emojis/kento-2.png'/> | kento-2.png |
 | <img src='./emojis/kermit-disbelief.png'/> | kermit-disbelief.png |
