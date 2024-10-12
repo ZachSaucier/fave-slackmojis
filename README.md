@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 123 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 125 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -83,6 +83,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/patrick-boo.png'/> | patrick-boo.png |
 | <img src='./emojis/phew.png'/> | phew.png |
 | <img src='./emojis/pika-wave.gif'/> | pika-wave.gif |
+| <img src='./emojis/plankton-frustrated.gif'/> | plankton-frustrated.gif |
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
@@ -127,3 +128,4 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/yoda-ready.gif'/> | yoda-ready.gif |
 | <img src='./emojis/you-got-it-dude.png'/> | you-got-it-dude.png |
 | <img src='./emojis/yup.gif'/> | yup.gif |
+| <img src='./emojis/yw.png'/> | yw.png |
