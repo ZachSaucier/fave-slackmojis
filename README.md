@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 133 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 139 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -22,6 +22,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/darkside.png'/> | darkside.png |
 | <img src='./emojis/deal-with-it.gif'/> | deal-with-it.gif |
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
+| <img src='./emojis/do-it-emperor-palpetine.jpg'/> | do-it-emperor-palpetine.jpg |
 | <img src='./emojis/dog-cool.gif'/> | dog-cool.gif |
 | <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
@@ -95,6 +96,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/scratch.gif'/> | scratch.gif |
 | <img src='./emojis/send-it.gif'/> | send-it.gif |
 | <img src='./emojis/shaq-shimmy.gif'/> | shaq-shimmy.gif |
+| <img src='./emojis/shia-do-it.gif'/> | shia-do-it.gif |
 | <img src='./emojis/shrug-diddy.png'/> | shrug-diddy.png |
 | <img src='./emojis/smart.gif'/> | smart.gif |
 | <img src='./emojis/smelly-smell.jpg'/> | smelly-smell.jpg |
@@ -107,14 +109,17 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/spongebob-blow-fire.gif'/> | spongebob-blow-fire.gif |
 | <img src='./emojis/spongebob-fun.gif'/> | spongebob-fun.gif |
 | <img src='./emojis/spongebob-imagination.gif'/> | spongebob-imagination.gif |
+| <img src='./emojis/spongebob-waiting.gif'/> | spongebob-waiting.gif |
 | <img src='./emojis/squidward-future.png'/> | squidward-future.png |
 | <img src='./emojis/strange-planet.png'/> | strange-planet.png |
 | <img src='./emojis/sus-cat.webp'/> | sus-cat.webp |
+| <img src='./emojis/sus-owl.png'/> | sus-owl.png |
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
 | <img src='./emojis/this.gif'/> | this.gif |
+| <img src='./emojis/thonking-cooly.png'/> | thonking-cooly.png |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
@@ -127,6 +132,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/waiting-cookie-monster.gif'/> | waiting-cookie-monster.gif |
 | <img src='./emojis/waiting-like.gif'/> | waiting-like.gif |
 | <img src='./emojis/wat.jpg'/> | wat.jpg |
+| <img src='./emojis/watch-it-burn-daria.gif'/> | watch-it-burn-daria.gif |
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
