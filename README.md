@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 125 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 129 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -20,7 +20,9 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
 | <img src='./emojis/darkside.png'/> | darkside.png |
+| <img src='./emojis/deal-with-it.gif'/> | deal-with-it.gif |
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
+| <img src='./emojis/dog-cool.gif'/> | dog-cool.gif |
 | <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
@@ -42,6 +44,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
+| <img src='./emojis/grrr-grouchy-old-man.gif'/> | grrr-grouchy-old-man.gif |
 | <img src='./emojis/happy-dolphin.gif'/> | happy-dolphin.gif |
 | <img src='./emojis/hmm-yes.gif'/> | hmm-yes.gif |
 | <img src='./emojis/homer-appear.gif'/> | homer-appear.gif |
@@ -103,6 +106,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/spongebob-fun.gif'/> | spongebob-fun.gif |
 | <img src='./emojis/spongebob-imagination.gif'/> | spongebob-imagination.gif |
 | <img src='./emojis/squidward-future.png'/> | squidward-future.png |
+| <img src='./emojis/strange-planet.png'/> | strange-planet.png |
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
