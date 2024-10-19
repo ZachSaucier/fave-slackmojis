@@ -52,7 +52,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/homer-doh.png'/> | homer-doh.png |
 | <img src='./emojis/hype-overload.gif'/> | hype-overload.gif |
 | <img src='./emojis/i-dunno-shrug.gif'/> | i-dunno-shrug.gif |
-| <img src='./emojis/igotchu.jpg'/> | igotchu.jpg |
+| <img src='./emojis/i-gotchu.jpg'/> | i-gotchu.jpg |
 | <img src='./emojis/interesting-batman.gif'/> | interesting-batman.gif |
 | <img src='./emojis/jack-nicholson-nodding.gif'/> | jack-nicholson-nodding.gif |
 | <img src='./emojis/jurrasic-omg.gif'/> | jurrasic-omg.gif |
@@ -120,9 +120,9 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/typing-kermit.gif'/> | typing-kermit.gif |
 | <img src='./emojis/vibe-rabbit.gif'/> | vibe-rabbit.gif |
 | <img src='./emojis/vibe-skeleton.gif'/> | vibe-skeleton.gif |
-| <img src='./emojis/waitaminute.gif'/> | waitaminute.gif |
+| <img src='./emojis/wait-a-minute.gif'/> | wait-a-minute.gif |
 | <img src='./emojis/waiting-cookie-monster.gif'/> | waiting-cookie-monster.gif |
-| <img src='./emojis/waitinglike.gif'/> | waitinglike.gif |
+| <img src='./emojis/waiting-like.gif'/> | waiting-like.gif |
 | <img src='./emojis/wat.jpg'/> | wat.jpg |
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
