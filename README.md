@@ -3,7 +3,7 @@ My favorite emojis to use in a Slack setting, saved here to make sure I can acce
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
-| ------------- | ------------- |
+| ------------- | ---------- |
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |

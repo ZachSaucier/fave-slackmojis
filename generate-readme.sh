@@ -1,5 +1,6 @@
 #!/bin/bash
 rm README.md
+rm -f ./emojis/*:Zone.Identifier
 
 FILECOUNT="$(ls -l ./emojis | egrep -c '^-')"
 
@@ -9,9 +10,8 @@ echo -e "My favorite emojis to use in a Slack setting, saved here to make sure I
 echo 'This README was generated using `./generate-readme.sh`' >> README.md
 
 echo '| Emoji preview | Emoji name |' >> README.md
-echo '| ------------- | ------------- |' >> README.md
+echo '| ------------- | ---------- |' >> README.md
 
-rm -f ./emojis/*:Zone.Identifier
 for filename in ./emojis/**; do
   name=${filename##*\/}
   echo "| <img src='$filename'/> | $name |" >> README.md
