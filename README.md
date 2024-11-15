@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 129 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 130 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -107,6 +107,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/spongebob-imagination.gif'/> | spongebob-imagination.gif |
 | <img src='./emojis/squidward-future.png'/> | squidward-future.png |
 | <img src='./emojis/strange-planet.png'/> | strange-planet.png |
+| <img src='./emojis/sus-cat.webp'/> | sus-cat.webp |
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
