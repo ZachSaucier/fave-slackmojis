@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 130 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 133 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -80,6 +80,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/nope.gif'/> | nope.gif |
 | <img src='./emojis/not-listening-smeagol.png'/> | not-listening-smeagol.png |
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
+| <img src='./emojis/oh-you-dog.png'/> | oh-you-dog.png |
+| <img src='./emojis/oh-you.png'/> | oh-you.png |
 | <img src='./emojis/oof-neon.gif'/> | oof-neon.gif |
 | <img src='./emojis/ooooooo.gif'/> | ooooooo.gif |
 | <img src='./emojis/patrick-amaze.gif'/> | patrick-amaze.gif |
@@ -129,6 +131,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
+| <img src='./emojis/wrong-channel.jpg'/> | wrong-channel.jpg |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
 | <img src='./emojis/yoda-ready.gif'/> | yoda-ready.gif |
 | <img src='./emojis/you-got-it-dude.png'/> | you-got-it-dude.png |
