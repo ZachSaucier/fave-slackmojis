@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 139 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 142 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -51,6 +51,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/homer-appear.gif'/> | homer-appear.gif |
 | <img src='./emojis/homer-disappear.gif'/> | homer-disappear.gif |
 | <img src='./emojis/homer-doh.png'/> | homer-doh.png |
+| <img src='./emojis/how-do-you-do-fellow-kids.jpg'/> | how-do-you-do-fellow-kids.jpg |
 | <img src='./emojis/hype-overload.gif'/> | hype-overload.gif |
 | <img src='./emojis/i-dunno-shrug.gif'/> | i-dunno-shrug.gif |
 | <img src='./emojis/i-gotchu.jpg'/> | i-gotchu.jpg |
@@ -73,6 +74,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/need-coffee.gif'/> | need-coffee.gif |
 | <img src='./emojis/nice-neon.gif'/> | nice-neon.gif |
 | <img src='./emojis/nice.png'/> | nice.png |
+| <img src='./emojis/no-problem-i-can-adapt.png'/> | no-problem-i-can-adapt.png |
 | <img src='./emojis/no-rush.jpg'/> | no-rush.jpg |
 | <img src='./emojis/no-thanks-froge.png'/> | no-thanks-froge.png |
 | <img src='./emojis/nod-approvingly.gif'/> | nod-approvingly.gif |
@@ -126,6 +128,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/ty.png'/> | ty.png |
 | <img src='./emojis/typing-cat.gif'/> | typing-cat.gif |
 | <img src='./emojis/typing-kermit.gif'/> | typing-kermit.gif |
+| <img src='./emojis/uh-oh-kirby.png'/> | uh-oh-kirby.png |
 | <img src='./emojis/vibe-rabbit.gif'/> | vibe-rabbit.gif |
 | <img src='./emojis/vibe-skeleton.gif'/> | vibe-skeleton.gif |
 | <img src='./emojis/wait-a-minute.gif'/> | wait-a-minute.gif |
