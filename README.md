@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 145 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 149 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -17,6 +17,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
 | <img src='./emojis/chefs-kiss.jpg'/> | chefs-kiss.jpg |
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
+| <img src='./emojis/confused-dog.gif'/> | confused-dog.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
 | <img src='./emojis/darkside.png'/> | darkside.png |
@@ -49,6 +50,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/grrr-grouchy-old-man.gif'/> | grrr-grouchy-old-man.gif |
 | <img src='./emojis/happy-dolphin.gif'/> | happy-dolphin.gif |
 | <img src='./emojis/harold-headshot.jpg'/> | harold-headshot.jpg |
+| <img src='./emojis/help-me-pls.png'/> | help-me-pls.png |
 | <img src='./emojis/hmm-yes.gif'/> | hmm-yes.gif |
 | <img src='./emojis/homer-appear.gif'/> | homer-appear.gif |
 | <img src='./emojis/homer-disappear.gif'/> | homer-disappear.gif |
@@ -61,6 +63,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/jack-nicholson-nodding.gif'/> | jack-nicholson-nodding.gif |
 | <img src='./emojis/jurrasic-omg.gif'/> | jurrasic-omg.gif |
 | <img src='./emojis/just-in-case.png'/> | just-in-case.png |
+| <img src='./emojis/keanu-woah.png'/> | keanu-woah.png |
 | <img src='./emojis/kento-1.png'/> | kento-1.png |
 | <img src='./emojis/kento-2.png'/> | kento-2.png |
 | <img src='./emojis/kermit-disbelief.png'/> | kermit-disbelief.png |
@@ -141,6 +144,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/watch-it-burn-daria.gif'/> | watch-it-burn-daria.gif |
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
+| <img src='./emojis/whoomp-there-it-is.png'/> | whoomp-there-it-is.png |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
 | <img src='./emojis/wrong-channel.jpg'/> | wrong-channel.jpg |
