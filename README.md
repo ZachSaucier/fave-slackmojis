@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 149 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 150 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -131,6 +131,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
+| <img src='./emojis/trying-shark.gif'/> | trying-shark.gif |
 | <img src='./emojis/ty.png'/> | ty.png |
 | <img src='./emojis/typing-cat.gif'/> | typing-cat.gif |
 | <img src='./emojis/typing-kermit.gif'/> | typing-kermit.gif |
