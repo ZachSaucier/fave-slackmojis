@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 164 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 165 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -81,6 +81,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/kermit-tea.png'/> | kermit-tea.png |
 | <img src='./emojis/link-jam.gif'/> | link-jam.gif |
 | <img src='./emojis/lolol.gif'/> | lolol.gif |
+| <img src='./emojis/luck-intensifies.gif'/> | luck-intensifies.gif |
 | <img src='./emojis/magic.gif'/> | magic.gif |
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
 | <img src='./emojis/matrix.gif'/> | matrix.gif |
