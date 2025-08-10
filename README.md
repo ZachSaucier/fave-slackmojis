@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 165 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 168 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -30,6 +30,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/ditto.png'/> | ditto.png |
 | <img src='./emojis/do-it-emperor-palpetine.jpg'/> | do-it-emperor-palpetine.jpg |
 | <img src='./emojis/dog-cool.gif'/> | dog-cool.gif |
+| <img src='./emojis/dog-jam.gif'/> | dog-jam.gif |
 | <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
@@ -113,6 +114,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/plankton-frustrated.gif'/> | plankton-frustrated.gif |
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/reading.gif'/> | reading.gif |
+| <img src='./emojis/rickroll.gif'/> | rickroll.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
 | <img src='./emojis/scratch.gif'/> | scratch.gif |
@@ -137,6 +139,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/sus-cat.webp'/> | sus-cat.webp |
 | <img src='./emojis/sus-owl.png'/> | sus-owl.png |
 | <img src='./emojis/sus.png'/> | sus.png |
+| <img src='./emojis/take-my-money.png'/> | take-my-money.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
