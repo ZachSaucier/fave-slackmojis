@@ -30,8 +30,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/ditto.png'/> | ditto.png |
 | <img src='./emojis/do-it-emperor-palpetine.jpg'/> | do-it-emperor-palpetine.jpg |
 | <img src='./emojis/dog-cool.gif'/> | dog-cool.gif |
+| <img src='./emojis/dog-dance.gif'/> | dog-dance.gif |
 | <img src='./emojis/dog-jam.gif'/> | dog-jam.gif |
-| <img src='./emojis/doge-dance.gif'/> | doge-dance.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
 | <img src='./emojis/dupe.jpg'/> | dupe.jpg |
