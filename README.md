@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 168 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 171 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -108,6 +108,9 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/ooooooo.gif'/> | ooooooo.gif |
 | <img src='./emojis/patrick-amaze.gif'/> | patrick-amaze.gif |
 | <img src='./emojis/patrick-boo.png'/> | patrick-boo.png |
+| <img src='./emojis/patrick-boo.webp'/> | patrick-boo.webp |
+| <img src='./emojis/patrick-mad.png'/> | patrick-mad.png |
+| <img src='./emojis/patrick-shocked.png'/> | patrick-shocked.png |
 | <img src='./emojis/peace-disappear.gif'/> | peace-disappear.gif |
 | <img src='./emojis/phew.png'/> | phew.png |
 | <img src='./emojis/pika-wave.gif'/> | pika-wave.gif |
