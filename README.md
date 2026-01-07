@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 172 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 177 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -7,6 +7,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
+| <img src='./emojis/always-has-been.png'/> | always-has-been.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
@@ -22,6 +23,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
 | <img src='./emojis/confused-dog.gif'/> | confused-dog.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
+| <img src='./emojis/cries-in-red-tape.png'/> | cries-in-red-tape.png |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
 | <img src='./emojis/darkside.png'/> | darkside.png |
 | <img src='./emojis/deal-with-it.gif'/> | deal-with-it.gif |
@@ -52,6 +54,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/froge-sweat.gif'/> | froge-sweat.gif |
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
+| <img src='./emojis/god-mode.png'/> | god-mode.png |
 | <img src='./emojis/gotta-go-fast-sonic.gif'/> | gotta-go-fast-sonic.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
 | <img src='./emojis/grrr-grouchy-old-man.gif'/> | grrr-grouchy-old-man.gif |
@@ -70,6 +73,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/i-gotchu.jpg'/> | i-gotchu.jpg |
 | <img src='./emojis/im-good-at-calculation.png'/> | im-good-at-calculation.png |
 | <img src='./emojis/interesting-batman.gif'/> | interesting-batman.gif |
+| <img src='./emojis/it-was-me.gif'/> | it-was-me.gif |
 | <img src='./emojis/jack-nicholson-nodding.gif'/> | jack-nicholson-nodding.gif |
 | <img src='./emojis/jurrasic-omg.gif'/> | jurrasic-omg.gif |
 | <img src='./emojis/just-in-case.png'/> | just-in-case.png |
@@ -152,6 +156,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/thumbs-up-fire.gif'/> | thumbs-up-fire.gif |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
+| <img src='./emojis/trust-nobody-not-even-yourself.jpg'/> | trust-nobody-not-even-yourself.jpg |
 | <img src='./emojis/try-not-to-cry.gif'/> | try-not-to-cry.gif |
 | <img src='./emojis/trying-shark.gif'/> | trying-shark.gif |
 | <img src='./emojis/ty.png'/> | ty.png |
