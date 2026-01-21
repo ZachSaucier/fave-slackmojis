@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 179 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 182 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -11,6 +11,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
+| <img src='./emojis/bear-hug.gif'/> | bear-hug.gif |
 | <img src='./emojis/beard-fire-crazy.gif'/> | beard-fire-crazy.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
 | <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
@@ -121,6 +122,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/phew.png'/> | phew.png |
 | <img src='./emojis/pika-wave.gif'/> | pika-wave.gif |
 | <img src='./emojis/plankton-frustrated.gif'/> | plankton-frustrated.gif |
+| <img src='./emojis/pour-one-out.gif'/> | pour-one-out.gif |
 | <img src='./emojis/power-on.gif'/> | power-on.gif |
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/reading.gif'/> | reading.gif |
@@ -177,6 +179,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/whoomp-there-it-is.png'/> | whoomp-there-it-is.png |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
+| <img src='./emojis/wild.gif'/> | wild.gif |
 | <img src='./emojis/wrong-channel.jpg'/> | wrong-channel.jpg |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
 | <img src='./emojis/yoda-ready.gif'/> | yoda-ready.gif |
