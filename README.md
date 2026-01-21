@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 177 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 179 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -13,6 +13,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
 | <img src='./emojis/beard-fire-crazy.gif'/> | beard-fire-crazy.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
+| <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
@@ -107,6 +108,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
 | <img src='./emojis/oh-you-dog.png'/> | oh-you-dog.png |
 | <img src='./emojis/oh-you.png'/> | oh-you.png |
+| <img src='./emojis/old-man-yells-at-cloud-simpsons.gif'/> | old-man-yells-at-cloud-simpsons.gif |
 | <img src='./emojis/oof-neon.gif'/> | oof-neon.gif |
 | <img src='./emojis/oof.png'/> | oof.png |
 | <img src='./emojis/ooooooo.gif'/> | ooooooo.gif |
