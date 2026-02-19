@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 182 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 188 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -21,6 +21,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/cackle-intensifies.gif'/> | cackle-intensifies.gif |
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
 | <img src='./emojis/chefs-kiss.jpg'/> | chefs-kiss.jpg |
+| <img src='./emojis/clapping-feet.gif'/> | clapping-feet.gif |
 | <img src='./emojis/classic-duck.webp'/> | classic-duck.webp |
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
 | <img src='./emojis/confused-dog.gif'/> | confused-dog.gif |
@@ -48,15 +49,18 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/excite.gif'/> | excite.gif |
 | <img src='./emojis/extreme-teamwork.gif'/> | extreme-teamwork.gif |
 | <img src='./emojis/eye-twitch.png'/> | eye-twitch.png |
+| <img src='./emojis/eyes-red.png'/> | eyes-red.png |
 | <img src='./emojis/facepalm.png'/> | facepalm.png |
 | <img src='./emojis/fancy-pooh.png'/> | fancy-pooh.png |
 | <img src='./emojis/feel-better-soon.png'/> | feel-better-soon.png |
 | <img src='./emojis/finally.gif'/> | finally.gif |
 | <img src='./emojis/finger-guns.png'/> | finger-guns.png |
+| <img src='./emojis/frog-roll.gif'/> | frog-roll.gif |
 | <img src='./emojis/froge-sweat.gif'/> | froge-sweat.gif |
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
 | <img src='./emojis/god-mode.png'/> | god-mode.png |
+| <img src='./emojis/good-find.png'/> | good-find.png |
 | <img src='./emojis/gotta-go-fast-sonic.gif'/> | gotta-go-fast-sonic.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
 | <img src='./emojis/grrr-grouchy-old-man.gif'/> | grrr-grouchy-old-man.gif |
@@ -86,6 +90,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/kermit-nervous.gif'/> | kermit-nervous.gif |
 | <img src='./emojis/kermit-panic.gif'/> | kermit-panic.gif |
 | <img src='./emojis/kermit-tea.png'/> | kermit-tea.png |
+| <img src='./emojis/laugh-cry-pedro-pascal.gif'/> | laugh-cry-pedro-pascal.gif |
 | <img src='./emojis/link-jam.gif'/> | link-jam.gif |
 | <img src='./emojis/lolol.gif'/> | lolol.gif |
 | <img src='./emojis/luck-intensifies.gif'/> | luck-intensifies.gif |
@@ -127,6 +132,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/reading.gif'/> | reading.gif |
 | <img src='./emojis/rickroll.gif'/> | rickroll.gif |
+| <img src='./emojis/roll-the-dice.gif'/> | roll-the-dice.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
 | <img src='./emojis/scratch.gif'/> | scratch.gif |
