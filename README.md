@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 188 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 193 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -10,10 +10,12 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
+| <img src='./emojis/batman-nod-awww-yeah.gif'/> | batman-nod-awww-yeah.gif |
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
 | <img src='./emojis/bear-hug.gif'/> | bear-hug.gif |
 | <img src='./emojis/beard-fire-crazy.gif'/> | beard-fire-crazy.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
+| <img src='./emojis/blob-aww.gif'/> | blob-aww.gif |
 | <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
@@ -24,7 +26,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/clapping-feet.gif'/> | clapping-feet.gif |
 | <img src='./emojis/classic-duck.webp'/> | classic-duck.webp |
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
-| <img src='./emojis/confused-dog.gif'/> | confused-dog.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/cries-in-red-tape.png'/> | cries-in-red-tape.png |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
@@ -34,16 +35,19 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
 | <img src='./emojis/ditto.png'/> | ditto.png |
 | <img src='./emojis/do-it-emperor-palpetine.jpg'/> | do-it-emperor-palpetine.jpg |
+| <img src='./emojis/dog-confused.gif'/> | dog-confused.gif |
 | <img src='./emojis/dog-cool.gif'/> | dog-cool.gif |
 | <img src='./emojis/dog-dance.gif'/> | dog-dance.gif |
 | <img src='./emojis/dog-jam.gif'/> | dog-jam.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
+| <img src='./emojis/drunk-furby.jpg'/> | drunk-furby.jpg |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
 | <img src='./emojis/dupe.jpg'/> | dupe.jpg |
 | <img src='./emojis/dwight-dog.png'/> | dwight-dog.png |
 | <img src='./emojis/elmo-hell.gif'/> | elmo-hell.gif |
 | <img src='./emojis/elmo-potty.gif'/> | elmo-potty.gif |
 | <img src='./emojis/elmo-shook.png'/> | elmo-shook.png |
+| <img src='./emojis/enjoy.png'/> | enjoy.png |
 | <img src='./emojis/epic-handshake.png'/> | epic-handshake.png |
 | <img src='./emojis/evil-kermit.png'/> | evil-kermit.png |
 | <img src='./emojis/excite.gif'/> | excite.gif |
@@ -110,6 +114,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/noise-cringe.jpg'/> | noise-cringe.jpg |
 | <img src='./emojis/nomnomnom.gif'/> | nomnomnom.gif |
 | <img src='./emojis/nope.gif'/> | nope.gif |
+| <img src='./emojis/not-it-obama.png'/> | not-it-obama.png |
 | <img src='./emojis/not-listening-smeagol.png'/> | not-listening-smeagol.png |
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
 | <img src='./emojis/oh-you-dog.png'/> | oh-you-dog.png |
