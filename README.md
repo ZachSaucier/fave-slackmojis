@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 193 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 195 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -26,6 +26,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/clapping-feet.gif'/> | clapping-feet.gif |
 | <img src='./emojis/classic-duck.webp'/> | classic-duck.webp |
 | <img src='./emojis/confused-cat.png'/> | confused-cat.png |
+| <img src='./emojis/confused-huh-what-cat.gif'/> | confused-huh-what-cat.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/cries-in-red-tape.png'/> | cries-in-red-tape.png |
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
@@ -64,6 +65,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
 | <img src='./emojis/god-mode.png'/> | god-mode.png |
+| <img src='./emojis/good-call.gif'/> | good-call.gif |
 | <img src='./emojis/good-find.png'/> | good-find.png |
 | <img src='./emojis/gotta-go-fast-sonic.gif'/> | gotta-go-fast-sonic.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
@@ -101,7 +103,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/magic.gif'/> | magic.gif |
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
 | <img src='./emojis/matrix.gif'/> | matrix.gif |
-| <img src='./emojis/nailedit.png'/> | nailedit.png |
+| <img src='./emojis/nailed-it.png'/> | nailed-it.png |
 | <img src='./emojis/neat.png'/> | neat.png |
 | <img src='./emojis/need-coffee.gif'/> | need-coffee.gif |
 | <img src='./emojis/nice-neon.gif'/> | nice-neon.gif |
@@ -124,7 +126,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/oof.png'/> | oof.png |
 | <img src='./emojis/ooooooo.gif'/> | ooooooo.gif |
 | <img src='./emojis/patrick-amaze.gif'/> | patrick-amaze.gif |
-| <img src='./emojis/patrick-boo.png'/> | patrick-boo.png |
 | <img src='./emojis/patrick-boo.webp'/> | patrick-boo.webp |
 | <img src='./emojis/patrick-mad.png'/> | patrick-mad.png |
 | <img src='./emojis/patrick-shocked.png'/> | patrick-shocked.png |
@@ -137,6 +138,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/reading.gif'/> | reading.gif |
 | <img src='./emojis/rickroll.gif'/> | rickroll.gif |
+| <img src='./emojis/robot-dance.gif'/> | robot-dance.gif |
 | <img src='./emojis/roll-the-dice.gif'/> | roll-the-dice.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
