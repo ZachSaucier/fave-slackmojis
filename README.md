@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 195 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 198 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -41,6 +41,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/dog-dance.gif'/> | dog-dance.gif |
 | <img src='./emojis/dog-jam.gif'/> | dog-jam.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
+| <img src='./emojis/dramatic-chipmunk-gopher.gif'/> | dramatic-chipmunk-gopher.gif |
 | <img src='./emojis/drunk-furby.jpg'/> | drunk-furby.jpg |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
 | <img src='./emojis/dupe.jpg'/> | dupe.jpg |
@@ -103,6 +104,8 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/magic.gif'/> | magic.gif |
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
 | <img src='./emojis/matrix.gif'/> | matrix.gif |
+| <img src='./emojis/mind-blown.gif'/> | mind-blown.gif |
+| <img src='./emojis/mother-of-god-stunned-cant-believe.gif'/> | mother-of-god-stunned-cant-believe.gif |
 | <img src='./emojis/nailed-it.png'/> | nailed-it.png |
 | <img src='./emojis/neat.png'/> | neat.png |
 | <img src='./emojis/need-coffee.gif'/> | need-coffee.gif |
