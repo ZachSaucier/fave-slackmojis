@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 198 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 202 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -8,6 +8,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
+| <img src='./emojis/angry-cat.png'/> | angry-cat.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
 | <img src='./emojis/batman-nod-awww-yeah.gif'/> | batman-nod-awww-yeah.gif |
@@ -25,7 +26,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/chefs-kiss.jpg'/> | chefs-kiss.jpg |
 | <img src='./emojis/clapping-feet.gif'/> | clapping-feet.gif |
 | <img src='./emojis/classic-duck.webp'/> | classic-duck.webp |
-| <img src='./emojis/confused-cat.png'/> | confused-cat.png |
 | <img src='./emojis/confused-huh-what-cat.gif'/> | confused-huh-what-cat.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/cries-in-red-tape.png'/> | cries-in-red-tape.png |
@@ -33,6 +33,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/darkside.png'/> | darkside.png |
 | <img src='./emojis/deal-with-it.gif'/> | deal-with-it.gif |
 | <img src='./emojis/didnt-see-anything.gif'/> | didnt-see-anything.gif |
+| <img src='./emojis/dig-dug-deeper.gif'/> | dig-dug-deeper.gif |
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
 | <img src='./emojis/ditto.png'/> | ditto.png |
 | <img src='./emojis/do-it-emperor-palpetine.jpg'/> | do-it-emperor-palpetine.jpg |
@@ -121,6 +122,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/nope.gif'/> | nope.gif |
 | <img src='./emojis/not-it-obama.png'/> | not-it-obama.png |
 | <img src='./emojis/not-listening-smeagol.png'/> | not-listening-smeagol.png |
+| <img src='./emojis/off-and-on.gif'/> | off-and-on.gif |
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
 | <img src='./emojis/oh-you-dog.png'/> | oh-you-dog.png |
 | <img src='./emojis/oh-you.png'/> | oh-you.png |
@@ -157,6 +159,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/sparkle-eyes-sailor-moon.gif'/> | sparkle-eyes-sailor-moon.gif |
 | <img src='./emojis/spiderman-pointing.png'/> | spiderman-pointing.png |
+| <img src='./emojis/spinning-plates.gif'/> | spinning-plates.gif |
 | <img src='./emojis/sponge-gar.jpg'/> | sponge-gar.jpg |
 | <img src='./emojis/spongebob-blow-fire.gif'/> | spongebob-blow-fire.gif |
 | <img src='./emojis/spongebob-fun.gif'/> | spongebob-fun.gif |
@@ -191,6 +194,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/wat.jpg'/> | wat.jpg |
 | <img src='./emojis/watch-it-burn-daria.gif'/> | watch-it-burn-daria.gif |
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
+| <img src='./emojis/welp-jim.png'/> | welp-jim.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
 | <img src='./emojis/whoomp-there-it-is.png'/> | whoomp-there-it-is.png |
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
