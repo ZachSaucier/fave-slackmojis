@@ -1,11 +1,12 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 202 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 206 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
 | ------------- | ---------- |
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
+| <img src='./emojis/agent-smith.png'/> | agent-smith.png |
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
 | <img src='./emojis/angry-cat.png'/> | angry-cat.png |
@@ -21,6 +22,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
+| <img src='./emojis/bug-cat-slap.gif'/> | bug-cat-slap.gif |
 | <img src='./emojis/cackle-intensifies.gif'/> | cackle-intensifies.gif |
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
 | <img src='./emojis/chefs-kiss.jpg'/> | chefs-kiss.jpg |
@@ -83,6 +85,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/homer-doh.png'/> | homer-doh.png |
 | <img src='./emojis/how-do-you-do-fellow-kids.jpg'/> | how-do-you-do-fellow-kids.jpg |
 | <img src='./emojis/hype-overload.gif'/> | hype-overload.gif |
+| <img src='./emojis/hyper-push-button.gif'/> | hyper-push-button.gif |
 | <img src='./emojis/i-dunno-shrug.gif'/> | i-dunno-shrug.gif |
 | <img src='./emojis/i-gotchu.jpg'/> | i-gotchu.jpg |
 | <img src='./emojis/im-good-at-calculation.png'/> | im-good-at-calculation.png |
@@ -143,6 +146,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/rave-kid.gif'/> | rave-kid.gif |
 | <img src='./emojis/reading.gif'/> | reading.gif |
 | <img src='./emojis/rickroll.gif'/> | rickroll.gif |
+| <img src='./emojis/rip.png'/> | rip.png |
 | <img src='./emojis/robot-dance.gif'/> | robot-dance.gif |
 | <img src='./emojis/roll-the-dice.gif'/> | roll-the-dice.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
