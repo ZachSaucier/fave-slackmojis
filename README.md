@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 206 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 209 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -7,6 +7,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/10-4.jpeg'/> | 10-4.jpeg |
 | <img src='./emojis/100-rainbow.gif'/> | 100-rainbow.gif |
 | <img src='./emojis/agent-smith.png'/> | agent-smith.png |
+| <img src='./emojis/all-good.png'/> | all-good.png |
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
 | <img src='./emojis/angry-cat.png'/> | angry-cat.png |
@@ -177,8 +178,10 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/take-my-money.png'/> | take-my-money.png |
 | <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
+| <img src='./emojis/this-is-fine-intensifies.gif'/> | this-is-fine-intensifies.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
 | <img src='./emojis/this.gif'/> | this.gif |
+| <img src='./emojis/thonked.gif'/> | thonked.gif |
 | <img src='./emojis/thonking-cooly.png'/> | thonking-cooly.png |
 | <img src='./emojis/thumbs-up-fire.gif'/> | thumbs-up-fire.gif |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
