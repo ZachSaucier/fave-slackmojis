@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 209 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 212 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -17,6 +17,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
 | <img src='./emojis/bear-hug.gif'/> | bear-hug.gif |
 | <img src='./emojis/beard-fire-crazy.gif'/> | beard-fire-crazy.gif |
+| <img src='./emojis/blessed-3d-hands.gif'/> | blessed-3d-hands.gif |
 | <img src='./emojis/blink-excuse-me-wat.gif'/> | blink-excuse-me-wat.gif |
 | <img src='./emojis/blob-aww.gif'/> | blob-aww.gif |
 | <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
@@ -35,6 +36,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/dance-doggo.gif'/> | dance-doggo.gif |
 | <img src='./emojis/darkside.png'/> | darkside.png |
 | <img src='./emojis/deal-with-it.gif'/> | deal-with-it.gif |
+| <img src='./emojis/diagonal-mouth-disappoint.png'/> | diagonal-mouth-disappoint.png |
 | <img src='./emojis/didnt-see-anything.gif'/> | didnt-see-anything.gif |
 | <img src='./emojis/dig-dug-deeper.gif'/> | dig-dug-deeper.gif |
 | <img src='./emojis/disaster-girl.jpg'/> | disaster-girl.jpg |
@@ -45,6 +47,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/dog-dance.gif'/> | dog-dance.gif |
 | <img src='./emojis/dog-jam.gif'/> | dog-jam.gif |
 | <img src='./emojis/doge-laugh.png'/> | doge-laugh.png |
+| <img src='./emojis/done.png'/> | done.png |
 | <img src='./emojis/dramatic-chipmunk-gopher.gif'/> | dramatic-chipmunk-gopher.gif |
 | <img src='./emojis/drunk-furby.jpg'/> | drunk-furby.jpg |
 | <img src='./emojis/dumpster-fire-adventure.gif'/> | dumpster-fire-adventure.gif |
