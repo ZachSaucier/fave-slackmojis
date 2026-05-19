@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 212 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 213 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -75,6 +75,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/god-mode.png'/> | god-mode.png |
 | <img src='./emojis/good-call.gif'/> | good-call.gif |
 | <img src='./emojis/good-find.png'/> | good-find.png |
+| <img src='./emojis/got-em.png'/> | got-em.png |
 | <img src='./emojis/gotta-go-fast-sonic.gif'/> | gotta-go-fast-sonic.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
 | <img src='./emojis/grrr-grouchy-old-man.gif'/> | grrr-grouchy-old-man.gif |
