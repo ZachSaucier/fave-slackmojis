@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 214 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 217 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -13,6 +13,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/angry-cat.png'/> | angry-cat.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
+| <img src='./emojis/back-from-grave-undertaker.gif'/> | back-from-grave-undertaker.gif |
 | <img src='./emojis/batman-nod-awww-yeah.gif'/> | batman-nod-awww-yeah.gif |
 | <img src='./emojis/beaker-nope.gif'/> | beaker-nope.gif |
 | <img src='./emojis/bear-hug.gif'/> | bear-hug.gif |
@@ -96,6 +97,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/im-good-at-calculation.png'/> | im-good-at-calculation.png |
 | <img src='./emojis/interesting-batman.gif'/> | interesting-batman.gif |
 | <img src='./emojis/it-was-me.gif'/> | it-was-me.gif |
+| <img src='./emojis/its-alive-frankenstein.gif'/> | its-alive-frankenstein.gif |
 | <img src='./emojis/jack-nicholson-nodding.gif'/> | jack-nicholson-nodding.gif |
 | <img src='./emojis/jurrasic-omg.gif'/> | jurrasic-omg.gif |
 | <img src='./emojis/just-in-case.png'/> | just-in-case.png |
@@ -109,6 +111,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/laugh-cry-pedro-pascal.gif'/> | laugh-cry-pedro-pascal.gif |
 | <img src='./emojis/link-jam.gif'/> | link-jam.gif |
 | <img src='./emojis/lolol.gif'/> | lolol.gif |
+| <img src='./emojis/lord-farquad-interested.png'/> | lord-farquad-interested.png |
 | <img src='./emojis/luck-intensifies.gif'/> | luck-intensifies.gif |
 | <img src='./emojis/magic.gif'/> | magic.gif |
 | <img src='./emojis/mario-luigi-dance.gif'/> | mario-luigi-dance.gif |
