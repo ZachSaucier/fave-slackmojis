@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 223 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 225 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -10,6 +10,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/all-good.png'/> | all-good.png |
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
+| <img src='./emojis/amaze-amaze-amaze-rocky.png'/> | amaze-amaze-amaze-rocky.png |
 | <img src='./emojis/angry-cat.png'/> | angry-cat.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
@@ -27,6 +28,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
 | <img src='./emojis/breathing-cat-intensifies.gif'/> | breathing-cat-intensifies.gif |
+| <img src='./emojis/breathing-heavy-cat.png'/> | breathing-heavy-cat.png |
 | <img src='./emojis/bug-cat-slap.gif'/> | bug-cat-slap.gif |
 | <img src='./emojis/cackle-intensifies.gif'/> | cackle-intensifies.gif |
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
