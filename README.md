@@ -192,7 +192,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/sus.png'/> | sus.png |
 | <img src='./emojis/sweating-airplane.gif'/> | sweating-airplane.gif |
 | <img src='./emojis/take-my-money.png'/> | take-my-money.png |
-| <img src='./emojis/thinkies.png'/> | thinkies.png |
 | <img src='./emojis/this-is-fine-head.gif'/> | this-is-fine-head.gif |
 | <img src='./emojis/this-is-fine-intensifies.gif'/> | this-is-fine-intensifies.gif |
 | <img src='./emojis/this-is-fine.gif'/> | this-is-fine.gif |
@@ -200,6 +199,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/thonked.gif'/> | thonked.gif |
 | <img src='./emojis/thonking-cooly.png'/> | thonking-cooly.png |
 | <img src='./emojis/thonking-spin.gif'/> | thonking-spin.gif |
+| <img src='./emojis/thonking.png'/> | thonking.png |
 | <img src='./emojis/thumbs-up-fire.gif'/> | thumbs-up-fire.gif |
 | <img src='./emojis/thumbs-up-kid.gif'/> | thumbs-up-kid.gif |
 | <img src='./emojis/too-damn-high.png'/> | too-damn-high.png |
