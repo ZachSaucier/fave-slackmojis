@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 226 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 227 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -144,6 +144,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/oh-yeah.gif'/> | oh-yeah.gif |
 | <img src='./emojis/oh-you-dog.png'/> | oh-you-dog.png |
 | <img src='./emojis/oh-you.png'/> | oh-you.png |
+| <img src='./emojis/old-damon-aging.gif'/> | old-damon-aging.gif |
 | <img src='./emojis/old-man-yells-at-cloud-simpsons.gif'/> | old-man-yells-at-cloud-simpsons.gif |
 | <img src='./emojis/oof-neon.gif'/> | oof-neon.gif |
 | <img src='./emojis/oof.png'/> | oof.png |
