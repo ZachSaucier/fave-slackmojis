@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 227 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 232 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -73,13 +73,16 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/feel-better-soon.png'/> | feel-better-soon.png |
 | <img src='./emojis/finally.gif'/> | finally.gif |
 | <img src='./emojis/finger-guns.png'/> | finger-guns.png |
+| <img src='./emojis/friday-mufasa.gif'/> | friday-mufasa.gif |
 | <img src='./emojis/frog-roll.gif'/> | frog-roll.gif |
 | <img src='./emojis/froge-sweat.gif'/> | froge-sweat.gif |
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
 | <img src='./emojis/god-mode.png'/> | god-mode.png |
+| <img src='./emojis/good-bot.gif'/> | good-bot.gif |
 | <img src='./emojis/good-call.gif'/> | good-call.gif |
 | <img src='./emojis/good-find.png'/> | good-find.png |
+| <img src='./emojis/good-to-know.png'/> | good-to-know.png |
 | <img src='./emojis/got-em.png'/> | got-em.png |
 | <img src='./emojis/gotta-go-fast-sonic.gif'/> | gotta-go-fast-sonic.gif |
 | <img src='./emojis/graphic-design-is-my-passion.png'/> | graphic-design-is-my-passion.png |
@@ -179,6 +182,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/soon.jpg'/> | soon.jpg |
 | <img src='./emojis/sounds-good-shaun.gif'/> | sounds-good-shaun.gif |
 | <img src='./emojis/sparkle-eyes-sailor-moon.gif'/> | sparkle-eyes-sailor-moon.gif |
+| <img src='./emojis/spiderman-dance.gif'/> | spiderman-dance.gif |
 | <img src='./emojis/spiderman-pointing.png'/> | spiderman-pointing.png |
 | <img src='./emojis/spinning-plates.gif'/> | spinning-plates.gif |
 | <img src='./emojis/sponge-gar.jpg'/> | sponge-gar.jpg |
@@ -225,6 +229,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/why-not-both.gif'/> | why-not-both.gif |
 | <img src='./emojis/why-tho.png'/> | why-tho.png |
 | <img src='./emojis/wild.gif'/> | wild.gif |
+| <img src='./emojis/woo-hoo.png'/> | woo-hoo.png |
 | <img src='./emojis/wrong-channel.jpg'/> | wrong-channel.jpg |
 | <img src='./emojis/wtf-tom.gif'/> | wtf-tom.gif |
 | <img src='./emojis/yoda-ready.gif'/> | yoda-ready.gif |
