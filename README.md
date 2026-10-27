@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 229 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 228 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -24,7 +24,6 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/blob-aww.gif'/> | blob-aww.gif |
 | <img src='./emojis/blob-glare-closeup.png'/> | blob-glare-closeup.png |
 | <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
-| <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
 | <img src='./emojis/breathing-heavy-cat.png'/> | breathing-heavy-cat.png |
 | <img src='./emojis/bug-cat-slap.gif'/> | bug-cat-slap.gif |
