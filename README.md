@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 228 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 232 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -73,6 +73,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/friday-mufasa.gif'/> | friday-mufasa.gif |
 | <img src='./emojis/frog-roll.gif'/> | frog-roll.gif |
 | <img src='./emojis/froge-sweat.gif'/> | froge-sweat.gif |
+| <img src='./emojis/gandalf-you-shall-not-pass.gif'/> | gandalf-you-shall-not-pass.gif |
 | <img src='./emojis/gandalf.gif'/> | gandalf.gif |
 | <img src='./emojis/gasp-cat.gif'/> | gasp-cat.gif |
 | <img src='./emojis/god-mode.png'/> | god-mode.png |
@@ -95,6 +96,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/how-do-you-do-fellow-kids.jpg'/> | how-do-you-do-fellow-kids.jpg |
 | <img src='./emojis/hype-overload.gif'/> | hype-overload.gif |
 | <img src='./emojis/hyper-push-button.gif'/> | hyper-push-button.gif |
+| <img src='./emojis/i-dont-know-neil.gif'/> | i-dont-know-neil.gif |
 | <img src='./emojis/i-dunno-shrug.gif'/> | i-dunno-shrug.gif |
 | <img src='./emojis/i-gotchu.jpg'/> | i-gotchu.jpg |
 | <img src='./emojis/im-good-at-calculation.png'/> | im-good-at-calculation.png |
@@ -114,6 +116,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/kermit-tea.png'/> | kermit-tea.png |
 | <img src='./emojis/laugh-cry-pedro-pascal.gif'/> | laugh-cry-pedro-pascal.gif |
 | <img src='./emojis/link-jam.gif'/> | link-jam.gif |
+| <img src='./emojis/lol-smile.gif'/> | lol-smile.gif |
 | <img src='./emojis/lolol.gif'/> | lolol.gif |
 | <img src='./emojis/looking-into-it.png'/> | looking-into-it.png |
 | <img src='./emojis/lord-farquad-interested.png'/> | lord-farquad-interested.png |
@@ -163,6 +166,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/rickroll.gif'/> | rickroll.gif |
 | <img src='./emojis/rip.png'/> | rip.png |
 | <img src='./emojis/robot-dance.gif'/> | robot-dance.gif |
+| <img src='./emojis/roger-roger-starwars.gif'/> | roger-roger-starwars.gif |
 | <img src='./emojis/roll-the-dice.gif'/> | roll-the-dice.gif |
 | <img src='./emojis/run.gif'/> | run.gif |
 | <img src='./emojis/sad-cat.png'/> | sad-cat.png |
