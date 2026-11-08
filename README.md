@@ -1,5 +1,5 @@
 # fave-slackmojis
-My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 232 emojis!
+My favorite emojis to use in a Slack setting, saved here to make sure I can access them in future Slacks. Now with 237 emojis!
 
 This README was generated using `./generate-readme.sh`
 | Emoji preview | Emoji name |
@@ -11,6 +11,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/all-seeing-eye-sauron.jpg'/> | all-seeing-eye-sauron.jpg |
 | <img src='./emojis/always-has-been.png'/> | always-has-been.png |
 | <img src='./emojis/amaze-amaze-amaze-rocky.png'/> | amaze-amaze-amaze-rocky.png |
+| <img src='./emojis/amaze-rocky.gif'/> | amaze-rocky.gif |
 | <img src='./emojis/angry-cat.png'/> | angry-cat.png |
 | <img src='./emojis/athur-fist.png'/> | athur-fist.png |
 | <img src='./emojis/autobots-rollout.gif'/> | autobots-rollout.gif |
@@ -24,14 +25,17 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/blob-aww.gif'/> | blob-aww.gif |
 | <img src='./emojis/blob-glare-closeup.png'/> | blob-glare-closeup.png |
 | <img src='./emojis/blob-glare.gif'/> | blob-glare.gif |
+| <img src='./emojis/blob-oh-no.png'/> | blob-oh-no.png |
 | <img src='./emojis/bow-out.gif'/> | bow-out.gif |
 | <img src='./emojis/breathing-heavy-cat.png'/> | breathing-heavy-cat.png |
 | <img src='./emojis/bug-cat-slap.gif'/> | bug-cat-slap.gif |
 | <img src='./emojis/cackle-intensifies.gif'/> | cackle-intensifies.gif |
 | <img src='./emojis/cat-jam.gif'/> | cat-jam.gif |
+| <img src='./emojis/chalooby-mop-monsters-inc-cleanup-behind.gif.gif'/> | chalooby-mop-monsters-inc-cleanup-behind.gif.gif |
 | <img src='./emojis/chefs-kiss.jpg'/> | chefs-kiss.jpg |
 | <img src='./emojis/clapping-feet.gif'/> | clapping-feet.gif |
 | <img src='./emojis/classic-duck.webp'/> | classic-duck.webp |
+| <img src='./emojis/confused-gandalf-no-memory-of-this-place.png'/> | confused-gandalf-no-memory-of-this-place.png |
 | <img src='./emojis/confused-huh-what-cat.gif'/> | confused-huh-what-cat.gif |
 | <img src='./emojis/cool-doge.gif'/> | cool-doge.gif |
 | <img src='./emojis/cries-in-red-tape.png'/> | cries-in-red-tape.png |
@@ -222,6 +226,7 @@ This README was generated using `./generate-readme.sh`
 | <img src='./emojis/waiting-like.gif'/> | waiting-like.gif |
 | <img src='./emojis/wat.jpg'/> | wat.jpg |
 | <img src='./emojis/watch-it-burn-daria.gif'/> | watch-it-burn-daria.gif |
+| <img src='./emojis/wee-woo-patrick.gif'/> | wee-woo-patrick.gif |
 | <img src='./emojis/welcome-back.png'/> | welcome-back.png |
 | <img src='./emojis/welp-jim.png'/> | welp-jim.png |
 | <img src='./emojis/whoah-italian-spiderman.gif'/> | whoah-italian-spiderman.gif |
